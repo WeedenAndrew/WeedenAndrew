@@ -1,4 +1,4 @@
-# Hello There, I'm [Andrew Weeden](www.linkedin.com/in/weeden-andrew)
+# Hello There, I'm [Andrew Weeden](https://www.linkedin.com/in/weeden-andrew/)
 
 ### A Freelance Backend developer based in Texas, learning about Agentic systems and AI
 
