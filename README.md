@@ -31,19 +31,17 @@
 </p>
 
 <!-- Github Statistics Cards -->
-<!-- NOTE: stats + top-langs still rely on the shared public github-readme-stats.vercel.app instance,
-     which is chronically rate-limited by GitHub's API right now. cache_seconds helps a little but
-     the only permanent fix is self-hosting your own instance (see message below the file). -->
+<!-- SWAPPED: github-readme-stats.vercel.app is chronically rate-limited. Using github-stats-extended.vercel.app,
+     an actively maintained fork with its own separate hosting quota, fully API-compatible. -->
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeedenAndrew&count_private=true&title_color=39FF14&show_icons=true&icon_color=e94789&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@WeedenAndrew-Github-stats&rank_icon=percentile&cache_seconds=86400)
+![Andrew's GitHub stats](https://github-stats-extended.vercel.app/api?username=WeedenAndrew&count_private=true&title_color=39FF14&show_icons=true&icon_color=e94789&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@WeedenAndrew-Github-stats&rank_icon=percentile)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeedenAndrew&theme=react&custom_title=Most-Used-Languages&cache_seconds=86400)](https://github.com/WeedenAndrew)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=WeedenAndrew&theme=react&custom_title=Most-Used-Languages)](https://github.com/WeedenAndrew)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WeedenAndrew&mode=weekly&hide_current_streak=true&theme=tokyonight&hide_border=true&ring=e94789&fire=E25525)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WeedenAndrew&mode=weekly&hide_current_streak=true&theme=tokyonight&hide_border=true&ring=e94789&fire=E25525&sideNums=e94789&sideLabels=e94789)](https://git.io/streak-stats)
 
-[![WeedenAndrew github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeedenAndrew&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![WeedenAndrew github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeedenAndrew&theme=react-dark&hide_border=true&color=e94789&point=e94789)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- FIXED: main github-profile-trophy.vercel.app instance is overloaded. Swapped to a volunteer-run mirror. -->
 [![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=WeedenAndrew&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=WeedenAndrew&label=Profile%20views&color=e94789&style=flat" alt="WeedenAndrew" /></p>
