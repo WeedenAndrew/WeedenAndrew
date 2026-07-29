@@ -31,10 +31,10 @@
 
 ![Andrew's GitHub stats](https://github-stats-extended.vercel.app/api?username=WeedenAndrew&count_private=true&title_color=ffffff&text_color=ffffff&show_icons=true&icon_color=e94789&ring_color=e94789&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@WeedenAndrew%20GitHub%20Stats&rank_icon=percentile)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=WeedenAndrew&theme=react&title_color=e94789&text_color=ffffff&bg_color=0d1117&border_color=e94789&hide_border=true&custom_title=Most%20Used%20Languages)](https://github.com/WeedenAndrew)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=WeedenAndrew&theme=react&title_color=e94789&text_color=ffffff&border_color=e94789&hide_border=true&custom_title=Most%20Used%20Languages)](https://github.com/WeedenAndrew)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WeedenAndrew&mode=weekly&hide_current_streak=true&theme=tokyonight&hide_border=true&ring=e94789&fire=ffffff&sideNums=e94789&sideLabels=e94789)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WeedenAndrew&mode=weekly&hide_current_streak=true&theme=tokyonight&hide_border=true&ring=e94789&fire=ffffff&sideNums=ffffff&sideLabels=ffffff)](https://git.io/streak-stats)
 
-[![WeedenAndrew github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeedenAndrew&theme=react-dark&hide_border=true&color=e94789&point=e94789)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![WeedenAndrew github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeedenAndrew&theme=react-dark&hide_border=true&color=e94789&line=e94789&point=e94789)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=WeedenAndrew&label=Profile%20views&color=e94789&style=flat" alt="WeedenAndrew" /></p>
