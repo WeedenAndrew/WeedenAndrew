@@ -16,7 +16,6 @@
 <a href="https://github.com/WeedenAndrew" target="_blank"> ![Github: WeedenAndrew](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/weeden-andrew">![LinkedIn: weeden-andrew](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://www.kaggle.com/weedenandrew">![Kaggle: weedenandrew](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=Kaggle&logoColor=white)</a>
-<img src="https://komarev.com/ghpvc/?username=WeedenAndrew&label=Profile%20views&color=0e75b6&style=flat" alt="WeedenAndrew" />
 
 
 <!-- Language and Tools -->
