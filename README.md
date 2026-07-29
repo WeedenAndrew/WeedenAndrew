@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/WeedenAndrew" target="blank">Andrew Weeden</a></h1>
-<h3 align="center">A developer based in Texas, exploring code and data one commit at a time</h3>
+<h1 align="center">Hello There, I'm <a href="https://github.com/WeedenAndrew" target="blank">Andrew Weeden</a></h1>
+<h3 align="center">A Freelance Backend developer based in Texas, learning about Agentic systems and AI</h3>
 
 
 <!-- Social Media Handles -->
