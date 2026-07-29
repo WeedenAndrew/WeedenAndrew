@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/weeden-andrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="weeden-andrew" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/weedenandrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="weedenandrew" height="30" width="40" /></a>
 </p>
-
 ### Languages and Tools:
 
 <p align="left">
@@ -36,4 +35,4 @@
 <a href="https://github.com/WeedenAndrew" target="_blank">![Github: WeedenAndrew](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/weeden-andrew">![LinkedIn: weeden-andrew](https://img.shields.io/badge/-LinkedIn-e94789?style=plastic&logo=linkedIn&logoColor=white)</a>
 <a href="https://www.kaggle.com/weedenandrew">![Kaggle: weedenandrew](https://img.shields.io/badge/-Kaggle-e94789?style=plastic&logo=Kaggle&logoColor=white)</a>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=WeedenAndrew&label=Profile%20views&color=e94789&style=flat" alt="WeedenAndrew" /></p>
+<a align="left"><img src="https://komarev.com/ghpvc/?username=WeedenAndrew&label=Profile%20views&color=e94789&style=flat" alt="WeedenAndrew" /></a>
