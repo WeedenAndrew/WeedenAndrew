@@ -1,6 +1,6 @@
 # Hello There, I'm [Andrew Weeden](https://www.linkedin.com/in/weeden-andrew/)
 
-### A Freelance Backend developer based in Texas, learning about Agentic systems and AI
+### A Freelance Backend developer based in Texas, I am pursuing my Bachelor's in Computer Science at UTEP and am interested in learning about Agentic Systems and AI infrastructure
 
 ### Connect with me:
 
