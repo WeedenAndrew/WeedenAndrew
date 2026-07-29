@@ -6,7 +6,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/weeden-andrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="weeden-andrew" height="30" width="40" /></a>
-<a href="https://github.com/WeedenAndrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="WeedenAndrew" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/weedenandrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="weedenandrew" height="30" width="40" /></a>
 </p>
 
