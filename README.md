@@ -2,12 +2,6 @@
 
 ### A Freelance Backend developer based in Texas, pursuing my Bachelor's in Computer Science at UTEP. Currently building out a multi-agent orchestration system and an automated application pipeline, and I'm learning about agentic systems and AI infrastructure right now
 
-### Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/weeden-andrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="filter: invert(100%) alt="weeden-andrew" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/weedenandrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" style="filter: invert(100%) alt="weedenandrew" height="30" width="30" /></a>
-</p>
 
 ### Languages and Tools:
 
@@ -33,6 +27,8 @@
 
 [![WeedenAndrew github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeedenAndrew&theme=react-dark&hide_border=true&color=e94789&line=ffffff&point=e94789)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+### Connect with me:
 <a href="https://github.com/WeedenAndrew" target="_blank">![Github: WeedenAndrew](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/weeden-andrew">![LinkedIn: weeden-andrew](https://img.shields.io/badge/-LinkedIn-e94789?style=plastic&logo=linkedIn&logoColor=white)</a>
 <a href="https://www.kaggle.com/weedenandrew">![Kaggle: weedenandrew](https://img.shields.io/badge/-Kaggle-e94789?style=plastic&logo=Kaggle&logoColor=white)</a>
