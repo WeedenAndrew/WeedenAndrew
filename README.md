@@ -1,4 +1,4 @@
-# Hello There, I'm [Andrew Weeden](https://github.com/WeedenAndrew)
+# Hello There, I'm [Andrew Weeden](www.linkedin.com/in/weeden-andrew)
 
 ### A Freelance Backend developer based in Texas, learning about Agentic systems and AI
 
@@ -6,7 +6,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/weeden-andrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="weeden-andrew" height="30" width="40" /></a>
-<a href="https://github.com/WeedenAndrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="WeedenAndrew" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/weedenandrew" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="weedenandrew" height="30" width="40" /></a>
 </p>
 
@@ -18,16 +17,12 @@
 
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
 <!-- Github Statistics Cards -->
@@ -41,7 +36,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=WeedenAndrew&mode=weekly&hide_current_streak=true&theme=tokyonight&hide_border=true&ring=e94789&fire=E25525&sideNums=e94789&sideLabels=e94789)](https://git.io/streak-stats)
 
 [![WeedenAndrew github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeedenAndrew&theme=react-dark&hide_border=true&color=e94789&point=e94789)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=WeedenAndrew&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=WeedenAndrew&label=Profile%20views&color=e94789&style=flat" alt="WeedenAndrew" /></p>
