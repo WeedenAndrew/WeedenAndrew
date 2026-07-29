@@ -3,6 +3,7 @@
 ### A Freelance Backend developer based in Texas, pursuing my Bachelor's in Computer Science at UTEP. Currently building out a multi-agent orchestration system and an automated application pipeline, and I'm learning about agentic systems and AI infrastructure right now
 
 
+
 ### Languages and Tools:
 
 <p align="left">
@@ -26,6 +27,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=WeedenAndrew&mode=weekly&hide_current_streak=true&theme=dark&hide_border=true&ring=e94789&fire=e94789&sideNums=ffffff&sideLabels=ffffff)](https://git.io/streak-stats)
 
 [![WeedenAndrew github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeedenAndrew&theme=react-dark&hide_border=true&color=e94789&line=ffffff&point=e94789)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ### Connect with me:
