@@ -2,6 +2,15 @@
 
 ### A Freelance Backend developer based in Texas, pursuing my Bachelor's in Computer Science at UTEP. Currently building out a multi-agent orchestration system and an automated application pipeline, and I'm learning about agentic systems and AI infrastructure right now
 
+<!-- Github Statistics Cards -->
+<!-- SWAPPED: github-readme-stats.vercel.app is chronically rate-limited. Using github-stats-extended.vercel.app,
+     an actively maintained fork with its own separate hosting quota, fully API-compatible. -->
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=WeedenAndrew&theme=react&title_color=e94789&text_color=ffffff&border_color=e94789&hide_border=true&custom_title=Most%20Used%20Languages)](https://github.com/WeedenAndrew)
+     
+![Andrew's GitHub stats](https://github-stats-extended.vercel.app/api?username=WeedenAndrew&count_private=true&title_color=ffffff&text_color=ffffff&show_icons=true&icon_color=e94789&ring_color=e94789&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@WeedenAndrew%20GitHub%20Stats&rank_icon=percentile)
+
+[![WeedenAndrew github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeedenAndrew&theme=react-dark&hide_border=true&color=e94789&line=ffffff&point=e94789)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Languages and Tools:
@@ -15,16 +24,6 @@
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
 </p>
-
-<!-- Github Statistics Cards -->
-<!-- SWAPPED: github-readme-stats.vercel.app is chronically rate-limited. Using github-stats-extended.vercel.app,
-     an actively maintained fork with its own separate hosting quota, fully API-compatible. -->
-     
-![Andrew's GitHub stats](https://github-stats-extended.vercel.app/api?username=WeedenAndrew&count_private=true&title_color=ffffff&text_color=ffffff&show_icons=true&icon_color=e94789&ring_color=e94789&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@WeedenAndrew%20GitHub%20Stats&rank_icon=percentile)
-
-[![WeedenAndrew github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeedenAndrew&theme=react-dark&hide_border=true&color=e94789&line=ffffff&point=e94789)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=WeedenAndrew&theme=react&title_color=e94789&text_color=ffffff&border_color=e94789&hide_border=true&custom_title=Most%20Used%20Languages)](https://github.com/WeedenAndrew)
 
 
 
