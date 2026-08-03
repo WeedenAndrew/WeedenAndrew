@@ -1,6 +1,6 @@
 # Hello There, I'm [Andrew Weeden](https://www.linkedin.com/in/weeden-andrew/)
 
-### A Freelance Backend developer based in Texas, pursuing my Bachelor's in Computer Science at UTEP. Currently building out a multi-agent orchestration system and an automated application pipeline, and I'm learning about agentic systems and AI infrastructure right now
+### I'm a freelance backend developer based in Texas, pursuing my Bachelor's in Computer Science at UTEP. Currently, I am building a multi-agent orchestration system and an automated application pipeline, and I'm learning about agentic systems and AI infrastructure.
 
 
 ### Languages and Tools:
