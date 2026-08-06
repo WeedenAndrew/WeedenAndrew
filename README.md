@@ -40,7 +40,7 @@ A Flutter fantasy coin-flip game with animated gameplay, persistent state, inter
   <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
-[![Languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=WeedenAndrew&layout=compact&langs_count=8&theme=react&title_color=e94789&text_color=ffffff&border_color=e94789&hide_border=true&cache_seconds=21600&custom_title=Languages%20in%20Public%20Repositories)](https://github.com/WeedenAndrew)
+[![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=WeedenAndrew&theme=react&title_color=e94789&text_color=ffffff&border_color=e94789&hide_border=true&custom_title=Most%20Used%20Languages&v=20260806)](https://github.com/WeedenAndrew)
 
 ## Connect with me
 
@@ -48,4 +48,3 @@ A Flutter fantasy coin-flip game with animated gameplay, persistent state, inter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-e94789?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weeden-andrew)
 [![Kaggle](https://img.shields.io/badge/Kaggle-e94789?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/weedenandrew)
 ![Profile views](https://komarev.com/ghpvc/?username=WeedenAndrew&label=Profile%20views&color=e94789&style=flat)
-
