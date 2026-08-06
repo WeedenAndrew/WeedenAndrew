@@ -1,6 +1,6 @@
 # Hello there, I'm [Andrew Weeden](https://www.linkedin.com/in/weeden-andrew/)
 
-I'm a computer science student at UTEP and a software developer based in Texas. I build stateful mobile applications, backend tools, and experiments in agentic systems. I'm especially interested in systems design, secure local persistence, testable architecture, and AI infrastructure.
+I'm a computer science student at UTEP and a software developer based in Texas. I build stateful backend tools and experiment in agentic systems. I'm especially interested in systems design, secure local persistence, testable architecture, and AI infrastructure.
 
 ## Featured project: [Goblin Flip](https://github.com/WeedenAndrew/Goblin-Flip)
 
