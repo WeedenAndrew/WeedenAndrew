@@ -4,13 +4,13 @@ I'm a computer science student at UTEP and a software developer based in Texas. 
 
 ## Featured project: [Auto Interner](https://github.com/WeedenAndrew/auto_Interner)
 
-Auto Interner is a local-first internship discovery and résumé-tailoring pipeline designed for unattended operation on a Raspberry Pi. It combines deterministic screening, guarded network retrieval, structured model responses, durable local state, and reproducible document generation without automatically submitting applications.
+Auto Interner is a local internship discovery and resume tailoring pipeline designed for unattended operation on a Raspberry Pi. It combines deterministic screening, guarded network retrieval, structured model responses, durable local state, and reproducible document generation without automatically submitting applications.
 
 ### Architecture
 
-- **Acquisition:** year-swappable SimplifyJobs Git snapshots with protected HTTP retrieval, redirect revalidation, response limits, and an isolated browser fallback
+- **Acquisition:** swappable SimplifyJobs Git snapshots with protected HTTP retrieval, redirect revalidation, response limits, and an isolated browser fallback
 - **Decision pipeline:** deterministic location and keyword filters followed by a strict provider-neutral model boundary with an Anthropic adapter
-- **Persistence:** single-writer state, atomic updates, deduplication, retry tracking, recovery behavior, and collision-safe company/role output paths
+- **Persistence:** single writer state, atomic updates, deduplication, retry tracking, recovery behavior, and collision-safe company/role output paths
 - **Documents:** controlled DOCX rewriting that preserves the source résumé structure and keeps private runtime data outside the repository
 - **Operations:** hardened ARM64/x86_64 Docker deployment with non-root execution, read-only filesystems, health checks, bounded resources, rotated logs, and SSD-backed state
 - **Verification:** 399 automated tests with 91.01% combined line and branch coverage, strict typing, formatting, linting, and offline container contracts
@@ -23,7 +23,7 @@ Auto Interner is a local-first internship discovery and résumé-tailoring pipel
 
 ### [Goblin Flip](https://github.com/WeedenAndrew/Goblin-Flip)
 
-A Flutter fantasy coin-flip game with animated gameplay, persistent state, interruption-safe wagers, power-ups, and a security-focused commerce boundary.
+A Flutter fantasy coinflip game with animated gameplay, persistent state, interruption-safe wagers, powerups, and a security-focused commerce boundary.
 
 ## Languages and tools
 
