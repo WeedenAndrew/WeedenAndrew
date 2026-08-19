@@ -12,25 +12,25 @@ Every cycle it fetches a snapshot of the public SimplifyJobs internship feed ove
 
 What survives goes through deterministic location and keyword filters that reject only on hard disqualifiers, then a model boundary that is forced to return a fixed schema and is validated again locally. Individual posting URLs are fetched through a separate HTTP client with redirect revalidation, response size limits, and an isolated browser fallback for pages that need rendering.
 
-Tailoring runs by selection rather than generation. You keep a corpus of blocks you wrote and verified. For each posting it extracts weighted requirements, scores your blocks against them under a one page budget, then copies your base `.docx` and deletes the paragraphs it did not choose. There is no insert path, so the output is always a subset of a document you maintain. It never authors a sentence about you, which means it cannot invent one. Requirements that nothing in your corpus supports are named in a gap report instead of quietly filled.
+Tailoring runs by selection rather than generation. You keep a corpus of blocks you wrote and verified. For each posting, it extracts weighted requirements, scores your blocks against them under a one-page budget, then copies your base `.docx` and deletes the paragraphs it did not choose. There is no insert path, so the output is always a subset of a document you maintain. It never authors a sentence about you, which means it cannot invent one. Requirements that nothing in your corpus supports are named in a gap report instead of quietly filled.
 
 Choosing what to show is the maximum coverage problem, so the greedy rule lands within (1 - 1/e) of optimal and every selected line records which requirement justified it.
 
 ### Architecture
 
 - **Acquisition:** swappable SimplifyJobs Git snapshots with protected HTTP retrieval, redirect revalidation, response limits, and an isolated browser fallback
-- **Decision pipeline:** deterministic location and keyword filters followed by a strict provider neutral model boundary with an Anthropic adapter
-- **Persistence:** single writer state, atomic updates, deduplication, retry tracking, recovery behavior, and collision safe company/role output paths
-- **Selection:** weighted requirement extraction, alternation aware matching, evidence scoring, and honest gap reporting
-- **Documents:** delete only DOCX assembly that preserves the source resume's fonts, tab stops, and hyperlinks, plus a typography pass that fits one page or says why it cannot
-- **Operations:** hardened ARM64/x86_64 Docker deployment with non root execution, read only filesystems, health checks, bounded resources, rotated logs, and SSD backed state
+- **Decision pipeline:** deterministic location and keyword filters followed by a strict provider-neutral model boundary with an Anthropic adapter
+- **Persistence:** single writer state, atomic updates, deduplication, retry tracking, recovery behavior, and collision-safe company/role output paths
+- **Selection:** weighted requirement extraction, alternation-aware matching, evidence scoring, and honest gap reporting
+- **Documents:** delete-only DOCX assembly that preserves the source resume's fonts, tab stops, and hyperlinks, plus a typography pass that fits one page or says why it cannot
+- **Operations:** hardened ARM64/x86_64 Docker deployment with non-root execution, read-only filesystems, health checks, bounded resources, rotated logs, and SSD-backed state
 - **Verification:** 335 automated tests, strict typing, formatting, linting, and offline container contracts
 
 **Stack:** Python 3.12, Docker Compose, Selenium/Chromium, python-docx, GitHub Actions, Linux, ARM64
 
-Automatic submission is deliberately out of scope. It breaks the terms of service of most application portals, and auto submitted applications get flagged as spam. The expensive work is finding, screening, and tailoring, and that is what this automates.
+Automatic submission is deliberately out of scope. It breaks the terms of service of most application portals, and autosubmitted applications get flagged as spam. The expensive work is finding, screening, and tailoring, and that is what this automates.
 
-> **Deployment status:** offline software validation is complete. Docker image execution and Raspberry Pi 4B browser, reboot persistence, thermal, and 24 hour soak tests remain pending.
+> **Deployment status:** offline software validation is complete. Docker image execution and Raspberry Pi 4B browser, reboot persistence, thermal, and 24-hour soak tests remain pending.
 
 ## Other projects
 
@@ -40,7 +40,7 @@ Builds the corpus that Auto Interner consumes. Point it at your GitHub, upload a
 
 ### [Goblin Flip](https://github.com/WeedenAndrew/Goblin-Flip)
 
-A Flutter fantasy coinflip game with animated gameplay, persistent state, interruption safe wagers, powerups, and a security focused commerce boundary.
+A Flutter fantasy coinflip game with animated gameplay, persistent state, interruption-safe wagers, powerups, and a security-focused commerce boundary.
 
 ## Languages and tools
 
@@ -51,7 +51,6 @@ A Flutter fantasy coinflip game with animated gameplay, persistent state, interr
   <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/></a>
@@ -59,7 +58,6 @@ A Flutter fantasy coinflip game with animated gameplay, persistent state, interr
   <a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
 </p>
 
 [![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=WeedenAndrew&theme=react&title_color=e94789&text_color=ffffff&border_color=e94789&hide_border=true&custom_title=Most%20Used%20Languages&v=20260806)](https://github.com/WeedenAndrew)
