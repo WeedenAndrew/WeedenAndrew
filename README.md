@@ -66,4 +66,3 @@ A Flutter fantasy coinflip game with animated gameplay, persistent state, interr
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)](https://github.com/WeedenAndrew)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-e94789?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weeden-andrew)
 [![Kaggle](https://img.shields.io/badge/Kaggle-e94789?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/weedenandrew)
-![Profile views](https://komarev.com/ghpvc/?username=WeedenAndrew&label=Profile%20views&color=e94789&style=flat)
